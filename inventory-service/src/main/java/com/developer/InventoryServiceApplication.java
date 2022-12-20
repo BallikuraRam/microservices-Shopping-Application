@@ -24,7 +24,6 @@ public class InventoryServiceApplication {
 
 			inventoryRepository.save(inventory);
 			inventoryRepository.save(inventory1);
-
 		};
 	}
 	public static void main(String[] args) {
